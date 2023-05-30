@@ -1,14 +1,1 @@
-{
-  "manifest_version": 2,
-  "name": "Eper",
-  "version": "1.0",
-  "permissions": [
-    "tabs",
-    "https://linkentry-euro.fiat.com/attachments/images/loghi.png",
-    "https://linkentry-euro.fiat.com/widgets/menu/ajax/ajax_menu.php?entry=getSwitchAddress&flagAddress=62&_dc=1685306787547"
-  ],
-  "background": {
-    "scripts": ["background.js"],
-    "persistent": false
-  }
-}
+
