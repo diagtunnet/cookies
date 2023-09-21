@@ -1,5 +1,5 @@
-PL24SESSIONID^0000uHvOjYOG1zh3jbx1mBQR3c_:1ap5h7u21^www.partslink24.com^/^31/12/2023 23:59:59
+PL24SESSIONID^0000UMjN7oFhqAzXDZ0cLVpJVGh:1ap5h7u21^www.partslink24.com^/^31/12/2023 23:59:59
 pl24LoggedInTrail^""^www.partslink24.com^/^31/12/2023 23:59:59
 _gcl_au^1.1.558267181.1695301415^.partslink24.com^/^31/12/2023 23:59:59
-PL24TOKEN^iuv5NCbfov03w0NCU_OpIxSMsaca7SUy^www.partslink24.com^/^31/12/2023 23:59:59
-PARTSLINK24^user.locale~fr|^www.partslink24.com^/partslink24^31/12/2023 23:59:59
+PL24TOKEN^_U4LWEkzde7OpfJxZUBNGEIEyxrqWVbL^www.partslink24.com^/^31/12/2023 23:59:59
+PARTSLINK24^account.login~sa-145365|user.login~alaa|user.locale~fr|login.timestamp~1695304177512|^www.partslink24.com^/partslink24^31/12/2023 23:59:59
