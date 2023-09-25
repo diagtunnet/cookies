@@ -1,1 +1,1 @@
-PARTSLINK24=account.login~sa-145365|user.login~alaa|user.locale~fr|login.timestamp~1695604411054|; _gcl_au=1.1.1250197055.1695594300; _fbp=fb.1.1695594299929.874451295
+PARTSLINK24=account.login~sa-145365|user.login~alaa|user.locale~fr|login.timestamp~1695604694079|; _gcl_au=1.1.1250197055.1695594300; _fbp=fb.1.1695594299929.874451295; pl24LoggedInTrail=""; PL24TOKEN=ajMT_RwRecBG_8cta33W59XeJBfwrAug
