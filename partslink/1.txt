@@ -1,1 +1,1 @@
-PARTSLINK24=account.login~sa-145365|user.login~alaa|user.locale~fr|login.timestamp~1695892213030|; _gcl_au=1.1.479305914.1695773674; cartState=closed; _fbp=fb.1.1695773674460.1383498648; PL24PARTSSID=0000vFfd1t-KoiAQRHfhpg27q_b:19erddb7s
+PARTSLINK24=account.login~sa-145365|user.login~alaa|user.locale~fr|login.timestamp~1695898431721|; _gcl_au=1.1.479305914.1695773674; cartState=closed; _fbp=fb.1.1695773674460.1383498648; PL24PARTSSID=0000vFfd1t-KoiAQRHfhpg27q_b:19erddb7s; pl24LoggedInTrail=""; PL24TOKEN=phCN_t4Y7gDQATHMFr-xfHybTaquZMS4
