@@ -1,1 +1,1 @@
-_ga=GA1.1.2132278216.1697641628; _ga_KXWTNY3G2J=GS1.1.1697641627.1.0.1697641627.0.0.0
+_ga=GA1.1.2132278216.1697641628; dr-platform=web; dr-device-id=GoogleIncMozilla/50(WindowsNT100Win64x64)AppleWebKit/53736(KHTMLlikeGecko)Chrome/118000Safari/53736; platform-app-local=web; dr-version-app-local=1.5.6; dr-security-code=18afe8a27ebb4d08acd09b8be22cc550; dr-token=HEtlFNQREWnZl1Gt29rzt62umDB8NrCStmYN114P; _gcl_au=1.1.1173609313.1697641637; _fbp=fb.1.1697641636759.1822570917; dr-time-now-device=2023-10-18T15:07:17.389Z; _ga_KXWTNY3G2J=GS1.1.1697641627.1.1.1697641659.0.0.0
