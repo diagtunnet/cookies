@@ -1,13 +1,9 @@
-<!DOCTYPE html>
-<html style="height:100%">
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-<title> 403 Forbidden
-</title></head>
-<body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
-<div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 30%; left:50%;">
-        <h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">403</h1>
-<h2 style="margin-top:20px;font-size: 30px;">Forbidden
-</h2>
-<p>Access to this resource on the server is denied!</p>
-</div></div></body></html>
+id_token^eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzNTg3ODY3IiwidW5hbWUiOiJmaW5zdHVmZmthZGlyIiwiZ2lkIjoiNjk5MzE3IiwibGFuZ3VhZ2UiOiJlbi1nYiIsImlzcyI6IndvcmtzaG9wIiwiZXhwIjoxNzAwNTk0OTg5fQ.7OGYSe8HD8HcOoA5L2-GkWpgpCqYRDjQIf2I4QNMemg^.autodata-group.com^/^31/12/2023 23:59:59
+ad_web_u_66696E73747566666B61646972^0^workshop.autodata-group.com^/^31/12/2023 23:59:59
+access_token^eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjoiZmluc3R1ZmZrYWRpciIsInJvbGVzIjpbOCwxMiwyXSwiaXNzIjoid29ya3Nob3AiLCJleHAiOjE3MDA1ODExODl9.OkixZSbiEAW3jbxxC9rpQOgbb-XBJlFjtF-elnDSYVg^.autodata-group.com^/^31/12/2023 23:59:59
+adat^eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzNTg3ODY3IiwidW5hbWUiOiJmaW5zdHVmZmthZGlyIiwiZ2lkIjoiNjk5MzE3IiwicmlkcyI6WzZdLCJpc3MiOiJ3b3Jrc2hvcCIsImV4cCI6MTcwMDU5NDk4OH0.xQKJ_WkV8YTkidPZ0fMp8X9flcUTJvcvvI1Mn6CUeDk^.autodata-group.com^/^31/12/2023 23:59:59
+has_js^1^workshop.autodata-group.com^/^31/12/2023 23:59:59
+ad_web_i_34362E3139372E3135322E3534^0^workshop.autodata-group.com^/^31/12/2023 23:59:59
+SESSd965b47fdd2684807fd560c91c3e21b6^WKzM7heL_lsbiU6ner7JWhHTQhvFeqzRF1_-FeyO0Vk^.workshop.autodata-group.com^/^31/12/2023 23:59:59
+ad_web_g_363939333137^0^workshop.autodata-group.com^/^31/12/2023 23:59:59
+ad_web_i_3137352E3131302E38342E3337^0^workshop.autodata-group.com^/^31/12/2023 23:59:59
