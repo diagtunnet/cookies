@@ -1,19 +1,13 @@
-AWSALB^wkpoX8Zz7LMHdoJtVdyQkphGa2WoHxR0ZEVnFvpWa/tKhSimcXes9UVH1inzhDog/cmZBRJLjDRVCQAOjGhQhYn7xWCnEsmTMj5VvCTdphaEGwj8UwFLww0Hg3mV^newdialogys.renault.com^/^31/12/2023 23:59:59
-CloudFront-Key-Pair-Id^APKAI47WZRQWUSPNIFJQ^.renault.com^/^31/12/2023 23:59:59
-domainBasePath^cdn.asdh.aws.renault.com^.renault.com^/^31/12/2023 23:59:59
-CloudFront-Signature^tEp~CJJ0j7LBlDJNfxiWbCLgnzCqvJSy~7itjL0qzfYkPRyeHaevSqAtVuk~rUKU9XEiElBaUnrsOH5hDQ4XsEhR2vSO8JC6moDXd9pFX31xic5hiJlH7oAp-BTMr9EBaIRt7zjwtNTYuAvLHQ76yNDJZVC6MdwrmfwYSBw~UxvcQgYdatDAQ3YcfEqBQXn84eegx4Ng8MBWZqW5M2gV0qKnP7dHoJgq~22qq61XFMXq3iNaj0vvz6rcaBvmYdgNNPhbYiUXaruHZND26GWesqYbjddNrgQ-L-zYDX8ikdUiJrCNOqv1uYLrOrEw9l7fjaVXgvCMYGF-sv-tQDxhFA__^.renault.com^/^31/12/2023 23:59:59
-glt_3_yshdrU5Q0Fycbp7BeyPbbIsRH_RTWNbaIHiQL6w-WhsTrBmo9pKA4dA5cdRIhFFe^st2.s.AcbH8_JZVw.WscLpbXL-rtSK0RsXqfbQx3wV_dyUwkEUx2cPZBMmwnh-vhOKDJqZSidmOfXP8ENWV3lXoZZm9_tYxgdL6rbortjfRv7U72RiOqbqkIVu6kFQk7h9xXwJFeGuGIwWd7q.EOcEeD_vHag9HZnkeYVedBztO7Vt7W8q-nH2YhExnot22ViBS7DNkhstn17MiPhJaTCVapoaA-cvA_0SWqJP2w.sc3^.newdialogys.renault.com^/^31/12/2023 23:59:59
-rxvt^1702244133605|1702242324814^.renault.com^/^31/12/2023 23:59:59
-gig_bootstrap_3_yshdrU5Q0Fycbp7BeyPbbIsRH_RTWNbaIHiQL6w-WhsTrBmo9pKA4dA5cdRIhFFe^_gigya_ver4^.newdialogys.renault.com^/^31/12/2023 23:59:59
-CloudFront-Policy^eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLmFzZGguYXdzLnJlbmF1bHQuY29tLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDIyODU1MjJ9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19^.renault.com^/^31/12/2023 23:59:59
-_pk_ses..bced^1^newdialogys.renault.com^/^31/12/2023 23:59:59
-gig_canary^false^.newdialogys.renault.com^/^31/12/2023 23:59:59
-gig_canary_ver^15622-3-28370700^.newdialogys.renault.com^/^31/12/2023 23:59:59
-dtPC^14$42325606_169h-vJUFORAHSGVHEUESWUMUMDPQCCMAROWEF-0e0^.renault.com^/^31/12/2023 23:59:59
-_pk_ses.3856.bced^1^newdialogys.renault.com^/^31/12/2023 23:59:59
-_pk_id.3856.bced^d5b59b79e3f9ea15.1702242327.^newdialogys.renault.com^/^31/12/2023 23:59:59
-urlBasePath^cdn.asdh.aws.renault.com^.renault.com^/^31/12/2023 23:59:59
-rxVisitor^170206919275738I1T4CTE231E52EH0IS99C3PR9QIK50^.renault.com^/^31/12/2023 23:59:59
-AWSALBCORS^wkpoX8Zz7LMHdoJtVdyQkphGa2WoHxR0ZEVnFvpWa/tKhSimcXes9UVH1inzhDog/cmZBRJLjDRVCQAOjGhQhYn7xWCnEsmTMj5VvCTdphaEGwj8UwFLww0Hg3mV^newdialogys.renault.com^/^31/12/2023 23:59:59
-dtCookie^v_4_srv_14_sn_9049F5F8F4CAE1C69310BFE51916366F_perc_100000_ol_0_mul_1_app-3A66c290bc33817ea5_1_app-3A12e8e2debb9c7a0d_1_rcs-3Acss_0^.renault.com^/^31/12/2023 23:59:59
-dtSa^-^.renault.com^/^31/12/2023 23:59:59
+<!DOCTYPE html>
+<html style="height:100%">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<title> 403 Forbidden
+</title></head>
+<body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
+<div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 30%; left:50%;">
+        <h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">403</h1>
+<h2 style="margin-top:20px;font-size: 30px;">Forbidden
+</h2>
+<p>Access to this resource on the server is denied!</p>
+</div></div></body></html>
