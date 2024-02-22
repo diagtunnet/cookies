@@ -1,3 +1,3 @@
-styleIdV2^launchelectr^www.workshopdata.com^/touch/site/layout/^31/12/2024 23:55:47
-productIdV2^259^www.workshopdata.com^/touch/site/layout/^31/12/2024 23:55:47
-JSESSIONID^app_0_30_touch~BB2DD1D288B4288C411E40215B0E4415^www.workshopdata.com^/touch/^31/12/2024 23:55:47
+styleIdV2^Launchwest^www.workshopdata.com^/touch/site/layout/^31/12/2024 23:55:47
+productIdV2^127^www.workshopdata.com^/touch/site/layout/^31/12/2024 23:55:47
+JSESSIONID^app_0_30_touch~DB5F9F40D4599A729046E68D720B333B^www.workshopdata.com^/touch/^31/12/2024 23:55:47
