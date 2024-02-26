@@ -1,13 +1,10 @@
-<!DOCTYPE html>
-<html style="height:100%">
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-<title> 403 Forbidden
-</title></head>
-<body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
-<div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 30%; left:50%;">
-        <h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">403</h1>
-<h2 style="margin-top:20px;font-size: 30px;">Forbidden
-</h2>
-<p>Access to this resource on the server is denied!</p>
-</div></div></body></html>
+adat^eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzNjI0NDQ3IiwidW5hbWUiOiJldXJvcGFydHIiLCJnaWQiOiI3MTkwMzciLCJyaWRzIjpbNl0sImlzcyI6IndvcmtzaG9wIiwiZXhwIjoxNzA4OTA5MzM5fQ.oH4iL0Njio1fTroAXzcqxamgKVWMgFHjsUm0qp_O02g^.autodata-group.com^/^30/12/2024 23:59:59
+ad_web_i_34362E3139372E3135322E3534^0^workshop.autodata-group.com^/^30/12/2024 23:59:59
+id_token^eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzNjI0NDQ3IiwidW5hbWUiOiJldXJvcGFydHIiLCJnaWQiOiI3MTkwMzciLCJsYW5ndWFnZSI6InRyLXRyIiwiaXNzIjoid29ya3Nob3AiLCJleHAiOjE3MDg5MDkzNDB9.6moRVH-KxTnuILp_b4RUjEWSmFQTqSxRE0ZUQGV8dKw^.autodata-group.com^/^30/12/2024 23:59:59
+ad_web_i_3137352E32392E3133322E38^0^workshop.autodata-group.com^/^30/12/2024 23:59:59
+access_token^eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjoiZXVyb3BhcnRyIiwicm9sZXMiOls4LDEyLDJdLCJpc3MiOiJ3b3Jrc2hvcCIsImV4cCI6MTcwODg5NTU0MH0.v_dqDkSlrlCNJqrnvf73zxuUOfZx50NdSnPJZHxDFCk^.autodata-group.com^/^30/12/2024 23:59:59
+has_js^1^workshop.autodata-group.com^/^30/12/2024 23:59:59
+ad_web_g_373139303337^0^workshop.autodata-group.com^/^30/12/2024 23:59:59
+ad_web_u_6575726F7061727472^0^workshop.autodata-group.com^/^30/12/2024 23:59:59
+SESSd965b47fdd2684807fd560c91c3e21b6^UJe_YcjjKUGNSfzMcj29MaE3cp557ONnsiU5OfYES7I^.workshop.autodata-group.com^/^30/12/2024 23:59:59
+ad_web_i_352E32372E33302E3839^0^workshop.autodata-group.com^/^30/12/2024 23:59:59
