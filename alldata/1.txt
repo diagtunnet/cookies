@@ -1,4 +1,13 @@
-ak_bmsc^387128EC78FB1E619A5399CE294CA5AA~000000000000000000000000000000~YAAQRiTDF641XryNAQAA1rFl2hYZG y1o95EWbmk8w2RobshNhA68GznMCo7 NVSJN7dzIu9Lrw4dTRPDW65gf9wF10IvYkU8kCeirNX6 3sDaiK4aP0KfZuNbJpXiEkhIIo9tGeSq4LkJ8c14ii3u7bNEDvNaFhaor5lHGmCAY30mtU1hCpapFV9Z03q9VYoWPA 2KL76Z3X99ZRgFRn7MLLDx8hnpBps6o07cWj2RsHDtMDJIZ5Q7o9RGUtMKJyUDQIys4ysd DxR1AVzpD8xU2YklriO/r/PtNHfDaFpSajWGti89TqxNPpLQN7lxM1KBKp3syO6fWSFXVMaFKSBrNEdJPR9rrSTntVWFWqQVqtUpayNWJxK 8TWb5Qo7OyrxBQdvWJWfPw==^.alldata.com^/^31/12/2024 23:59:59
-bm_mi^DAE94E58FFEAC308B756E49A0E32AB7E~YAAQBpUzuMRFEVyNAQAAtf5l2hZARhWlnm0XjEaTY7hEvUrhuu9VVmdjrscZwUEDKWvWNiqRAcG/pjfrL/XwTYj B5Prso71RI3iZx it62qIHb4Ku771okAvRXWIVH xSjjNLGDIWv0SHhGBA1u9aQvU4tGWHSLOHYmKUG/oVOLgvUbKyDru1HcSqYcVCg4liCS7xgp6DPAsyICpyIqWPMYPSLHn2mq jVzUDrENpwx2s3qM44aPzRu0bRQoG/WIzneqEdL3CEGIONf8UF6oFKYjrSy6m8MmzYt7KKtDTioW42HXpgigLOeccqxkdF4/uM5xHVjMuYWo1EhTmSq~1^.alldata.com^/^31/12/2024 23:59:59
-bm_sv^D5B4C17D270E1E37B5901930BA6A7CBC~YAAQBpUzuOBFEVyNAQAA8xFm2ha6eBVmjlWEU95yC8MiYUIYG8MsG9223xe8qqDNKyJhzhTR2DqV4rockMddlcPc2rM3T hee9wu0lNFv6/9V/kE0lfZZwCPsPDCGzl52FolYq8swh 3Xa7hACkdvX2GGN3p1rTnkm ekqa6mFPo2ekQNr/hsbR6f1cxrR06fc6BM7b4DjHNvaKCUOuZ1 zaqZ2gXXD7sBVzSjCc8mP2ocf4I4NmJDhxSdBDfPNdA7s=~1^.alldata.com^/^31/12/2024 23:59:59
-JSESSIONID^83946988B860D045134077CBB29C0B14-n1^.alldata.com^/^31/12/2024 23:59:59
+<!DOCTYPE html>
+<html style="height:100%">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<title> 403 Forbidden
+</title></head>
+<body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
+<div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 30%; left:50%;">
+        <h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">403</h1>
+<h2 style="margin-top:20px;font-size: 30px;">Forbidden
+</h2>
+<p>Access to this resource on the server is denied!</p>
+</div></div></body></html>
