@@ -1,1 +1,3 @@
-JSESSIONID^app_0_130_touch~FB26893670C04DAB1F6FA903538F455D^www.workshopdata.com^/touch/^31/12/2024 23:55:47
+styleIdV2^launchelectr^www.workshopdata.com^/touch/site/layout/^31/12/2024 23:55:47
+productIdV2^159^www.workshopdata.com^/touch/site/layout/^31/12/2024 23:55:47
+JSESSIONID^app_0_130_touch~8F395CA13C3DB7D58EE264990FD0DA52^www.workshopdata.com^/touch/^31/12/2024 23:55:47
