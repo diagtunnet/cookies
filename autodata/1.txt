@@ -1,12 +1,13 @@
-id_token^eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzNjQ3MTcxIiwidW5hbWUiOiJnZWRpem90b3NlcnZpczEiLCJnaWQiOiI3MzM3MzMiLCJsYW5ndWFnZSI6InRyLXRyIiwiaXNzIjoid29ya3Nob3AiLCJleHAiOjE3MTIzOTYzNjh9.CHY1CEhWJQf8d6iNXxFYiMrlr7dts4nSCfeSyLFqstI^.autodata-group.com^/^30/12/2024 23:59:59
-ad_web_i_33372E3231382E3231362E323239^0^workshop.autodata-group.com^/^30/12/2024 23:59:59
-access_token^eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjoiZ2VkaXpvdG9zZXJ2aXMxIiwicm9sZXMiOls4LDEyLDJdLCJpc3MiOiJ3b3Jrc2hvcCIsImV4cCI6MTcxMjM4MjU2OH0.a0pdtwIDVrlHF8Mgd-2lH-LzVybde5hkWRLm0fyaMBc^.autodata-group.com^/^30/12/2024 23:59:59
-adat^eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiIzNjQ3MTcxIiwidW5hbWUiOiJnZWRpem90b3NlcnZpczEiLCJnaWQiOiI3MzM3MzMiLCJyaWRzIjpbNl0sImlzcyI6IndvcmtzaG9wIiwiZXhwIjoxNzEyMzk2MzY3fQ.ZSYYlqq0PYpl8lZZjWCBYnVYLEqY0YhTNxaIKVPkzYg^.autodata-group.com^/^30/12/2024 23:59:59
-SESSd965b47fdd2684807fd560c91c3e21b6^rlkL3TrrirEbTrw7T8T-mrnM2CQJIYmzDhTxhYWxsiY^.workshop.autodata-group.com^/^30/12/2024 23:59:59
-ad_web_i_37382E3136362E3136332E313037^0^workshop.autodata-group.com^/^30/12/2024 23:59:59
-ad_web_g_373333373333^0^workshop.autodata-group.com^/^30/12/2024 23:59:59
-ad_web_i_3135362E3233352E39352E323035^0^workshop.autodata-group.com^/^30/12/2024 23:59:59
-ad_web_u_676564697A6F746F73657276697331^0^workshop.autodata-group.com^/^30/12/2024 23:59:59
-has_js^1^workshop.autodata-group.com^/^30/12/2024 23:59:59
-ad_web_i_34362E3139372E3135322E3534^0^workshop.autodata-group.com^/^30/12/2024 23:59:59
-ad_web_i_3231332E3234382E3133362E323432^0^workshop.autodata-group.com^/^30/12/2024 23:59:59
+<!DOCTYPE html>
+<html style="height:100%">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<title> 403 Forbidden
+</title></head>
+<body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
+<div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 30%; left:50%;">
+        <h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">403</h1>
+<h2 style="margin-top:20px;font-size: 30px;">Forbidden
+</h2>
+<p>Access to this resource on the server is denied!</p>
+</div></div></body></html>
