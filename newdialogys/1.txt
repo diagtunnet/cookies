@@ -1,13 +1,19 @@
-<!DOCTYPE html>
-<html style="height:100%">
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-<title> 403 Forbidden
-</title></head>
-<body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
-<div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 30%; left:50%;">
-        <h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">403</h1>
-<h2 style="margin-top:20px;font-size: 30px;">Forbidden
-</h2>
-<p>Access to this resource on the server is denied!</p>
-</div></div></body></html>
+rxvt^1712552534399|1712550726956^.renault.com^/^30/12/2024 23:59:59
+_pk_ses..bced^1^newdialogys.renault.com^/^30/12/2024 23:59:59
+dtCookie^v_4_srv_10_sn_211AC94714004DCBB0642E2A73D0D880_perc_100000_ol_0_mul_1_app-3A8460bbc712f801b4_1_app-3A66c290bc33817ea5_1_rcs-3Acss_0^.renault.com^/^30/12/2024 23:59:59
+AWSALBCORS^steZ9C2jHXZ[arti]VMFd9IxXhmilts/HYEre45hkpWtKukn2FHNnXtFUI7[arti]gnfOVTu00cGrfL194nptZ9lfvgRG9G0O7ujCYyyFNFgMzVqPHsUi4ztBXWQwKtxCrgVfT^newdialogys.renault.com^/^30/12/2024 23:59:59
+AWSALB^steZ9C2jHXZ[arti]VMFd9IxXhmilts/HYEre45hkpWtKukn2FHNnXtFUI7[arti]gnfOVTu00cGrfL194nptZ9lfvgRG9G0O7ujCYyyFNFgMzVqPHsUi4ztBXWQwKtxCrgVfT^newdialogys.renault.com^/^30/12/2024 23:59:59
+gig_canary^false^.newdialogys.renault.com^/^30/12/2024 23:59:59
+CloudFront-Signature^vu4VPH3sn~jvszuM9WUsvVR4E65fSy902Zs7dqLRwkRm-7j6YsnUozVnnMBjPWSNs4rdIADrgxw7diLnPGm0ZZBAdyoPsllol1rPGvsPfjSCxRmcZ3psGMy1L46tR~FSEfTvQHSPZ2nksiWg2jIPf-MLyRmr6IkMXRDa-0ZsqKROF5seADvYu4maZUCRC9NVa3LxM3AooRDTZDG5wwqOphVUqFS7Hf-fbeMLSPMUfWqRjZDgoj5gyvinSvAPoKLETBw1vPTc03xx2erdGuF05w-99NE8wFjzpCJO0OB79RAuNcWwpNueXzWcGckGyP~1Sdvzl9EQHttXnhphUGCAmw__^.renault.com^/^30/12/2024 23:59:59
+CloudFront-Policy^eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLmFzZGguYXdzLnJlbmF1bHQuY29tLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTI1OTM5MDR9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19^.renault.com^/^30/12/2024 23:59:59
+_pk_id.3856.bced^dabac86bf8839fea.1712550727.^newdialogys.renault.com^/^30/12/2024 23:59:59
+glt_3_yshdrU5Q0Fycbp7BeyPbbIsRH_RTWNbaIHiQL6w-WhsTrBmo9pKA4dA5cdRIhFFe^st2.s.AcbHGTd9qg.0eE-y3lk4i2kNA93Uj3SP-pTbhL8YW3jP9YhPdLW4DUZqcaQ8TFeJajj6-cNmRozam1SC4fcxI7HcFtLj2T5BdGqyw1jdoma76P9fD92FJXAUmTFsOitGAWuE036b8zb.EtH4zh0DttKgRbaPnhNVxlkEL3SAXRC439_BFQFgCT2syA2oKbCGZZjksmigDwnwtv1jfpU5DtjrHWxUksazDA.sc3^.newdialogys.renault.com^/^30/12/2024 23:59:59
+domainBasePath^cdn.asdh.aws.renault.com^.renault.com^/^30/12/2024 23:59:59
+gig_bootstrap_3_yshdrU5Q0Fycbp7BeyPbbIsRH_RTWNbaIHiQL6w-WhsTrBmo9pKA4dA5cdRIhFFe^_gigya_ver4^.newdialogys.renault.com^/^30/12/2024 23:59:59
+dtPC^10$150733984_413h5vRRUCCGUUWLCVFANSRKAFAJAUBMACLMBL-0e0^.renault.com^/^30/12/2024 23:59:59
+urlBasePath^cdn.asdh.aws.renault.com^.renault.com^/^30/12/2024 23:59:59
+_pk_ses.3856.bced^1^newdialogys.renault.com^/^30/12/2024 23:59:59
+dtSa^-^.renault.com^/^30/12/2024 23:59:59
+CloudFront-Key-Pair-Id^APKAI47WZRQWUSPNIFJQ^.renault.com^/^30/12/2024 23:59:59
+rxVisitor^1712550698046SRO98GV4A5RG3H82I04B2ST6OLPC0NBP^.renault.com^/^30/12/2024 23:59:59
+gig_canary_ver^15877-3-28542510^.newdialogys.renault.com^/^30/12/2024 23:59:59
