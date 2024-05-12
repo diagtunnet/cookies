@@ -1,1 +1,1 @@
-
+[{"domain": "snaponepc.com", "expiry": 1716129108, "httpOnly": false, "name": "AWSALBCORS", "path": "/", "sameSite": "None", "secure": true, "value": "d8gup9njHk3n11SV9tTsOd88z2ooflTAnt9FZyJnWEd9vif6PkeLxuIktIZQM3CpdsA1hwHE1uJOLrXrDOZwLGlcNZQs2UzVxsumy7zDmPlkmfwoY8B+H2eJCmPw"}, {"domain": "snaponepc.com", "expiry": 1716129108, "httpOnly": false, "name": "AWSALB", "path": "/", "sameSite": "Lax", "secure": false, "value": "d8gup9njHk3n11SV9tTsOd88z2ooflTAnt9FZyJnWEd9vif6PkeLxuIktIZQM3CpdsA1hwHE1uJOLrXrDOZwLGlcNZQs2UzVxsumy7zDmPlkmfwoY8B+H2eJCmPw"}]
