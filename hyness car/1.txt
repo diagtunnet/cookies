@@ -1,4 +1,1 @@
-styleIdV2^launchelectr^www.workshopdata.com^/touch/site/layout/^31/12/2024 23:55:47
-productIdV2^159^www.workshopdata.com^/touch/site/layout/^31/12/2024 23:55:47
-JSESSIONID^app_0_130_touch~550088E677A9865E37C5DBE8892DD2E3^www.workshopdata.com^/touch/^31/12/2024 23:55:47
-rememberMeV2^"aWRlYWx2aXNhckA6QHZhbGVudGluMTIzI0A6QHNlY3JldA=="^www.workshopdata.com^/touch/^31/12/2024 23:55:47
+[{"domain": "www.workshopdata.com", "httpOnly": true, "name": "JSESSIONID", "path": "/touch/", "sameSite": "None", "secure": true, "value": "app_1_130_touch~1618D3EEE003C128E8A15CC484EB9DB3"}, {"domain": "www.workshopdata.com", "expiry": 1718199424, "httpOnly": false, "name": "styleIdV2", "path": "/touch/site/layout/", "sameSite": "None", "secure": true, "value": "default"}, {"domain": "www.workshopdata.com", "expiry": 1718199424, "httpOnly": false, "name": "productIdV2", "path": "/touch/site/layout/", "sameSite": "None", "secure": true, "value": "0"}]
