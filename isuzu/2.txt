@@ -1,1 +1,1 @@
-{"lastLocale":"en-US","token":"undefined"}
+{"token":"undefined","lastLocale":"en-US"}
